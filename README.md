@@ -17,8 +17,12 @@ This project allows you to create your own private, powerful search engine for a
 -----
 
 ## 📸 Demo
-
-**(Recommended)** A short GIF is the best way to show how the application works. Record a quick demo of you uploading a PDF, running the app, and asking a question.
+to watch the working video click on the link: https://drive.google.com/file/d/1EheR9FxRXGUPqwskBjheJ3fEN1Tv1_sw/view?usp=drivesdk
+<img width="1918" height="1021" alt="image" src="https://github.com/user-attachments/assets/7f854741-f105-41d9-92c8-44d40ebc14c7" />
+<img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/84f321a4-bbdb-4bbc-bdf4-669a92e6a948" />
+<img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/5f74a259-1176-408e-92b0-f37143ecfdff" />
+<img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/7b1388a1-6572-4c22-9feb-09c4d54e921c" />
+<img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/17fdcf5d-c16d-4c3e-be1b-bc41c63f089b" />
 
 -----
 
@@ -188,3 +192,4 @@ Contributions, issues, and feature requests are welcome\! Feel free to check the
 ## 📜 License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
+
