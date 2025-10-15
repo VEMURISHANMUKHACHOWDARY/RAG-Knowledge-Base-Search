@@ -1,0 +1,70 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Local settings / secrets
+.env
+.env.*
+*.secret
+*.key
+
+# LangChain / Chroma data
+db/
+chroma/
+chromadb/
+vectorstore/
+index/
+indexes/
+
+# Uploaded docs and generated files
+documents/
+logs/
+*.log
+
+# Build & packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+wheels/
+*.whl
+MANIFEST
+
+# Testing / coverage
+.pytest_cache/
+.coverage*
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+junit*.xml
+
+# Caches & tooling
+.cache/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.pytype/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors / IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node (if any front-end)
+node_modules/
