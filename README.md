@@ -1,8 +1,4 @@
-Of course. Here is a comprehensive, detailed README file for your Knowledge-Base Search Engine project. It combines all the information from our conversation into a professional and easy-to-follow format, perfect for your GitHub repository.
 
-You can copy and paste this directly into your `README.md` file.
-
------
 
 # 🧠 Knowledge-Base Search Engine with RAG
 
@@ -192,4 +188,5 @@ Contributions, issues, and feature requests are welcome\! Feel free to check the
 ## 📜 License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
+
 
